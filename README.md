@@ -1,7 +1,5 @@
 # SQL-for-Data-Analyst-Interviews(Practice-Project)
-<p align="center">
-  <img src="banner.png" alt="SQL for Data Analyst Interviews Banner" width="100%">
-</p>
+
 
 ![SQL Badge](https://img.shields.io/badge/SQL-Advanced-blue)
 ![Project Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
@@ -32,5 +30,7 @@ Business KPIs: revenue, retention, active user classification, funnel conversion
 | 5 | Rolling Tweet Avg          | Coming soon...                                     | -        |
 
 
-
+<p align="center">
+  <img src="banner.png" alt="SQL for Data Analyst Interviews Banner" width="100%">
+</p>
 
