@@ -24,7 +24,7 @@ Business KPIs: revenue, retention, active user classification, funnel conversion
 | # | Title                       | Description                                        | SQL File |
 |---|-----------------------------|----------------------------------------------------|----------|
 | 1 | Highest Grossing Products  | Top 2 products by total spend in each category     | [View SQL](solutions/01_highest_grossing_products.sql) |
-| 2 | Most Profitable Company    | Coming soon...                                     | -        |
+| 2 | Top Monthly Sellers    | Coming soon...                                     | -        |
 | 3 | Card Launch Success        | Coming soon...                                     | -        |
 | 4 | Top States by Customers    | Coming soon...                                     | -        |
 | 5 | Rolling Tweet Avg          | Coming soon...                                     | -        |
