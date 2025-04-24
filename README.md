@@ -8,3 +8,54 @@ Ranking & TopN logic: ROW_NUMBER(), RANK() with PARTITION BY
 Time-based filters and trends: LAG(), DATEDIFF()
 Subqueries, CTEs, Window Functions
 Business KPIs: revenue, retention, active user classification, funnel conversion
+
+📂 Problem Log
+
+#
+
+Title
+
+Description
+
+SQL
+
+1
+
+Highest Grossing Products
+
+Top 2 products by total spend in each category (2022)
+
+View SQL
+
+2
+
+Most Profitable Company
+
+Coming soon...
+
+
+
+3
+
+Card Launch Success
+
+Coming soon...
+
+
+
+4
+
+Top States by Customers
+
+Coming soon...
+
+
+
+5
+
+Rolling Tweet Avg
+
+Coming soon...
+
+
+
