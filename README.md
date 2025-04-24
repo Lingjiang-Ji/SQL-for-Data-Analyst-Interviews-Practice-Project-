@@ -3,7 +3,7 @@
 
 ![SQL Badge](https://img.shields.io/badge/SQL-Advanced-blue)
 ![Project Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Platform](https://img.shields.io/badge/DataLemur-%F0%9F%90%A7%20SQL-blue)
+![DataLemur SQL](https://img.shields.io/badge/DataLemur-SQL-blue)
 
 This project documents my journey solving 30+ real-world SQL problems from platforms like DataLemur and StrataScratch, based on actual interview questions from companies like Amazon, Airbnb, and Spotify.  
 📌 Goal: Prepare for data analyst interviews and build a portfolio of reusable SQL snippets for common business analysis scenarios.
