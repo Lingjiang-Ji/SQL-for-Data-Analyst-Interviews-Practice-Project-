@@ -7,6 +7,7 @@
 
 🧮 Dual-Solution Design
 This problem can be approached from two equally valid perspectives:
+One has simpler logic, and one is more suitable for team work.
 
        
 ✅ Solution 1: Logical Simplicity 
