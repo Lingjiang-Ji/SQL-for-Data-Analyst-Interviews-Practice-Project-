@@ -1,0 +1,7 @@
+---------------------------------------------------
+-- 🎯 Problem: Median Google Search Frequency
+-- 🏢 Platform: DataLemur (Google)
+-- 📈 Difficulty: Hard
+-- 📌 Task: Calculate the median search frequency per user
+-- 🧠 Skills: CTE, Window Functions, generate_series(), Median Calculation Logic
+---------------------------------------------------
