@@ -26,7 +26,7 @@ Business KPIs: revenue, retention, active user classification, funnel conversion
 | 1 | Highest Grossing Products  | Top 2 products by total spend in each category     | [View SQL](solutions/01_highest_grossing_products.sql) |
 | 2 | Top Monthly Sellers    | Find top 3 sellers per product category in Jan 2024, handling ties properly | [View SQL](solutions/02_top_monthly_sellers.sql)        |
 | 3 | Card Launch Success        | Find how many cards were issued in each card's launch month | [View SQL](solutions/03_card_launch_success.sql)  |
-| 4 | Median Google Search Frequency   | Calculate the median search frequency per user  | -        |
+| 4 | Median Google Search Frequency   | Calculate the median search frequency per user  |[View SQL](solutions/04_median_google_search_frequency.sql)|
 | 5 | Rolling Tweet Avg          | Coming soon...                                     | -        |
 
 
