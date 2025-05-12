@@ -28,7 +28,8 @@ Business KPIs: revenue, retention, active user classification, funnel conversion
 | 3 | Card Launch Success        | Find how many cards were issued in each card's launch month | [View SQL](solutions/03_card_launch_success.sql)  |
 | 4 | Median Google Search Frequency   | Calculate the median search frequency per user  |[View SQL](solutions/04_median_google_search_frequency.sql)|
 | 5 | Active User Retention          | Count monthly active users (MAUs) based on actions in consecutive months  | [View SQL](solutions/05_active_user_retention.sql)   |
-| 6 | Coming soon...       |  |  |
+| 6 | Y on Y Growth Rate       | Calculate year-over-year growth in spend per product | [View SQL](solutions/06_Y_on_Y_growth_rate.sql) |
+| 7 | Coming soon...       |  | |
 
 
 <p align="center">
