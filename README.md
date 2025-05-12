@@ -29,7 +29,9 @@ Business KPIs: revenue, retention, active user classification, funnel conversion
 | 4 | Median Google Search Frequency   | Calculate the median search frequency per user  |[View SQL](solutions/04_median_google_search_frequency.sql)|
 | 5 | Active User Retention          | Count monthly active users (MAUs) based on actions in consecutive months  | [View SQL](solutions/05_active_user_retention.sql)   |
 | 6 | Y on Y Growth Rate       | Calculate year-over-year growth in spend per product | [View SQL](solutions/06_Y_on_Y_growth_rate.sql) |
-| 7 | Coming soon...       |  | |
+| 7 | Maximize Prime Item Inventory      | Maximize number of prime & non-prime item batches within 500,000 sqft | [View SQL](solutions/07_maximize_prime_item_inventory.sql) |
+| 8 | Coming soon...       |  | |
+| 9 | Coming soon...       |  | |
 
 
 <p align="center">
