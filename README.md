@@ -30,8 +30,10 @@ Business KPIs: revenue, retention, active user classification, funnel conversion
 | 5 | Active User Retention          | Count monthly active users (MAUs) based on actions in consecutive months  | [View SQL](solutions/05_active_user_retention.sql)   |
 | 6 | Y on Y Growth Rate       | Calculate year-over-year growth in spend per product | [View SQL](solutions/06_Y_on_Y_growth_rate.sql) |
 | 7 | Maximize Prime Item Inventory      | Maximize number of prime & non-prime item batches within 500,000 sqft | [View SQL](solutions/07_maximize_prime_item_inventory.sql) |
-| 8 | Coming soon...       |  | |
+| 8 | Advertiser Status       | Update advertiser lifecycle status based on current-day payments |  [View SQL](solutions/08_advertiser_status.sql)|
 | 9 | Coming soon...       |  | |
+| 10 | Coming soon...       |  | |
+
 
 
 <p align="center">
