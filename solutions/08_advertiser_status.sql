@@ -3,7 +3,6 @@
 -- 🏢 Platform: DataLemur (Facebook)
 -- 📌 Task: Update advertiser lifecycle status based on current-day payments
 -- 🧠 Skills: FULL OUTER JOIN, CASE WHEN logic, NULL handling, status transition modeling
-https://datalemur.com/questions/updated-status
 ---------------------------------------------------
 
 with payrcd as(
