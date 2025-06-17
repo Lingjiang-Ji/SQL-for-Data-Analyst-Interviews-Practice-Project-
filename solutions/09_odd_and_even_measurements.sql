@@ -18,3 +18,9 @@ select measurement_day,
        sum(measurement_value) filter (where rn%2=0) even_sum
 from rd 
 group by measurement_day;
+
+---------------------------------------------------------
+🌟Note:
+filter is clearer than case when in conditional aggregation
+-- especially when producing multiple parallel conditional sums.
+---------------------------------------------------------
