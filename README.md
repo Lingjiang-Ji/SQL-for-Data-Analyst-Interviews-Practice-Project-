@@ -31,9 +31,9 @@ Business KPIs: revenue, retention, active user classification, funnel conversion
 | 6 | Y on Y Growth Rate       | Calculate year-over-year growth in spend per product | [View SQL](solutions/06_Y_on_Y_growth_rate.sql) |
 | 7 | Maximize Prime Item Inventory      | Maximize number of prime & non-prime item batches within 500,000 sqft | [View SQL](solutions/07_maximize_prime_item_inventory.sql) |
 | 8 | Advertiser Status       | Update advertiser lifecycle status based on current-day payments |  [View SQL](solutions/08_advertiser_status.sql)|
-| 9 | Coming soon...       |  | |
+| 9 | Odd and Even Measurements |Separate and sum odd- vs even-ordered measurement_value per day  |[View SQL](solutions/09_odd_and_even_measurements.sql) |
 | 10 | Coming soon...       |  | |
-
+| 11 | Coming soon...       |  | |
 
 
 <p align="center">
