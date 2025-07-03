@@ -32,9 +32,9 @@ Business KPIs: revenue, retention, active user classification, funnel conversion
 | 7 | Maximize Prime Item Inventory      | Maximize number of prime & non-prime item batches within 500,000 sqft | [View SQL](solutions/07_maximize_prime_item_inventory.sql) |
 | 8 | Advertiser Status       | Update advertiser lifecycle status based on current-day payments |  [View SQL](solutions/08_advertiser_status.sql)|
 | 9 | Odd and Even Measurements |Separate and sum odd- vs even-ordered measurement_value per day  |[View SQL](solutions/09_odd_and_even_measurements.sql) |
-| 10 | Coming soon...       |  | |
+| 10 | User Shopping Sprees      | Identify users with ≥3 consecutive days of purchases |[View SQL](solutions/10_user_shopping_sprees.sql) |
 | 11 | Coming soon...       |  | |
-
+| 12 | Coming soon...       |  | |
 
 <p align="center">
   <img src="banner.png" alt="SQL for Data Analyst Interviews Banner" width="100%">
