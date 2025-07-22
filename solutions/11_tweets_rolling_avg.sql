@@ -1,9 +1,9 @@
 --------------------------------------------------------
 -- 🎯 Problem: Tweets Rolling Average
 -- 🏢 Platform: DataLemur (Twitter)
--- 📅 Task: calculate the 3-day rolling average of tweets for each user
+-- 📅 Task: Calculate the 3-day rolling average of tweets for each user
 -- 🧠 Skills: WINDOW FUNCTION, ROWS BETWEEN AND, ROUND(), lAG()
--- 📌 Note: Started without knowing 'ROWS BETWEEN AND' to constrain 3 days, then optimized to a simpler version.
+-- 📌 Note: Started without knowing 'ROWS BETWEEN AND' to constrain 3 days, but used LAG() and make it too complicated, then optimized to a simpler version.
 --------------------------------------------------------
 
 -- ✅ Final Optimized Version: use 'rows between and' in window function
