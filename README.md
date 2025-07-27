@@ -34,9 +34,11 @@ Business KPIs: revenue, retention, active user classification, funnel conversion
 | 9 | Odd and Even Measurements |Separate and sum odd- vs even-ordered measurement_value per day |CAST, FILTER clause, ROW_NUMBER(), GROUP BY |[View SQL](solutions/09_odd_and_even_measurements.sql) |
 | 10 | User Shopping Sprees      | Identify users with ≥3 consecutive days of purchases |LAG(), Self-Join, Date Arithmetic, DISTINCT|[View SQL](solutions/10_user_shopping_sprees.sql) |
 | 11 | Twets' Rolling Averages |Calculate the 3-day rolling average of tweets for each user|WINDOW FUNCTION, ROWS BETWEEN AND, ROUND(), lAG()    |[View SQL](solutions/11_tweets_rolling_avg.sql) |
-| 12 |Top 5 Artists   |  | | |[View SQL](solutions/12_top_5_artists.sql) |
+| 12 |Top 5 Artists   |Find the top 5 artists whose songs appear most frequently in the Top 10 of the global song rank.  |WINDOW FUNCTION, DENSE_RANK(), GROUPBY | |[View SQL](solutions/12_top_5_artists.sql) |
 | 13 | Coming soon...       |  | |  |
 | 14 | Coming soon...       |  | |  |
+
+
 
 <p align="center">
   <img src="banner.png" alt="SQL for Data Analyst Interviews Banner" width="100%">
