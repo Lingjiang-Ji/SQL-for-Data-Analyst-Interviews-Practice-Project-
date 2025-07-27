@@ -30,7 +30,7 @@ Business KPIs: revenue, retention, active user classification, funnel conversion
 | 5 | Active User Retention          | Count monthly active users (MAUs) based on actions in consecutive months|CTE, EXTRACT(MONTH), self-join on month offset, DISTINCT, COUNT  | [View SQL](solutions/05_active_user_retention.sql)   |
 | 6 | Y on Y Growth Rate       | Calculate year-over-year growth in spend per product|CTE, EXTRACT(YEAR), SUM, LEFT JOIN, ROUND | [View SQL](solutions/06_Y_on_Y_growth_rate.sql) |
 | 7 | Maximize Prime Item Inventory      | Maximize number of prime & non-prime item batches within 500,000 sqft |CTE, aggregation, FLOOR, arithmetic allocation, UNION ALL| [View SQL](solutions/07_maximize_prime_item_inventory.sql) |
-| 8 | Advertiser Status       | Update advertiser lifecycle status based on current-day payments|----   |  [View SQL](solutions/08_advertiser_status.sql)|
+| 8 | Advertiser Status       | Update advertiser lifecycle status based on current-day payments|FULL OUTER JOIN, CASE WHEN logic, NULL handling, status transition modeling|  [View SQL](solutions/08_advertiser_status.sql)|
 | 9 | Odd and Even Measurements |Separate and sum odd- vs even-ordered measurement_value per day |----   |[View SQL](solutions/09_odd_and_even_measurements.sql) |
 | 10 | User Shopping Sprees      | Identify users with ≥3 consecutive days of purchases |----  |[View SQL](solutions/10_user_shopping_sprees.sql) |
 | 11 | Twets' Rolling Averages |Calculate the 3-day rolling average of tweets for each user|----    |[View SQL](solutions/11_tweets_rolling_avg.sql) |
