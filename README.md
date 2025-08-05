@@ -28,7 +28,7 @@ Business KPIs: revenue, retention, active user classification, funnel conversion
 | 3 | Card Launch Success        | Find how many cards were issued in each card's launch month|ROW_NUMBER(), PARTITION BY, ORDER BY| [View SQL](solutions/03_card_launch_success.sql)  |
 | 4 | Median Google Search Frequency   | Calculate the median search frequency per user|CTE, Window Functions, generate_series(), Median Calculation Logic   |[View SQL](solutions/04_median_google_search_frequency.sql)|
 | 5 | Active User Retention          | Count monthly active users (MAUs) based on actions in consecutive months|CTE, EXTRACT(MONTH), self-join on month offset, DISTINCT, COUNT  | [View SQL](solutions/05_active_user_retention.sql)   |
-| 6 | Y on Y Growth Rate       | Calculate year-over-year growth in spend per product|CTE, EXTRACT(YEAR), SUM, LEFT JOIN, ROUND | [View SQL](solutions/06_Y_on_Y_growth_rate.sql) |
+| 6 | Y on Y Growth Rate       | Calculate year-over-year growth in spend per product|CTE, EXTRACT(YEAR), SUM, LEFT JOIN, ROUND, LAG() | [View SQL](solutions/06_Y_on_Y_growth_rate.sql) |
 | 7 | Maximize Prime Item Inventory      | Maximize number of prime & non-prime item batches within 500,000 sqft |CTE, aggregation, FLOOR, arithmetic allocation, UNION ALL| [View SQL](solutions/07_maximize_prime_item_inventory.sql) |
 | 8 | Advertiser Status       | Update advertiser lifecycle status based on current-day payments|FULL OUTER JOIN, CASE WHEN logic, NULL handling, status transition modeling|  [View SQL](solutions/08_advertiser_status.sql)|
 | 9 | Odd and Even Measurements |Separate and sum odd- vs even-ordered measurement_value per day |CAST, FILTER clause, ROW_NUMBER(), GROUP BY |[View SQL](solutions/09_odd_and_even_measurements.sql) |
